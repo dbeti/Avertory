@@ -1,0 +1,8 @@
+version: '3.4'
+
+services:
+  avertory:
+    image: ${DOCKER_REGISTRY-}avertory
+    build:
+      context: .
+      dockerfile: Avertory/Dockerfile
