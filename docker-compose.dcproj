@@ -3,7 +3,7 @@
   <PropertyGroup Label="Globals">
     <ProjectVersion>2.1</ProjectVersion>
     <DockerTargetOS>Linux</DockerTargetOS>
-    <ProjectGuid>d78ef474-e99f-4714-9d82-53edb955cdac</ProjectGuid>
+    <ProjectGuid>445b1fa6-f9a2-409b-8fa6-6a2ea49b14eb</ProjectGuid>
     <DockerLaunchAction>LaunchBrowser</DockerLaunchAction>
     <DockerServiceUrl>{Scheme}://localhost:{ServicePort}/swagger</DockerServiceUrl>
     <DockerServiceName>avertory</DockerServiceName>
